@@ -1,0 +1,6 @@
+# OTC承兑商交易|OTC场外交易|担保交易交易（含商家端调用接口）
+
+2024自主开发欢迎测试体验OTC交易钱包系统，OTC买单卖单<br>本店这款后端用的是java开发的程序，前端用的uniapp，数据库用的MYSQL，功能上高仿OKPAY，欢迎积极对比与测试，如果拿不定主意强烈建议联系店家之后咨询二者进行定制服务，当然本款在功能上集合了较多OKPAY没有的功能，具体差异若有兴趣可前往查看我们的演示。<br>致用户拍前必须阅读的选项：<br>   前言：本店这款后端用的是java开发，前端用的uniapp，数据库用的MYSQL，功能上高仿OTC钱包，欢迎积极对比与测试，如果拿不定主意强烈建议联系店家之后咨询二者进行定制服务，当然本款钱包在功能上集合了较多钱包没有的功能，具体差异若有兴趣可前往查看我们的演示。<br>提供源码，无忧二次开发增加功能，任意使用二开无任何限制，对于有技术力量的个人或团队，拿源码去二开是不错的选择，对于没有技术力量的个人或者公司，我们将为您提供更好更专业的方案和服务，真诚期待与您的合作。<br>  请注意，关于该钱包程序我们会提供整套完整的演示，仅保证交给你的源码与演示一致，购买之后如有二开需要可付费解决，如不能接受，请勿打扰！<br>APP安卓端下载链接：example.com/example.com/Mw==<br>IOS端APP下载：暂无（uniapp可以有IOS端，但是因为只是演示故而没做签名供下载体验）<br>H5网页端体验地址：example.com<br>体验账号：18378303617<br>体验密码：qq123456789<br>以下附后台演示地址：example.com<br>后台账号：admin<br>后台密码：admin123<br>APP开发后续可能有更新，功能有变化的可能性，购买之前请咨询我确认好。<br>购买本源码，不包含二次修改/二次删改增开发服务。<br>免责声明：<br>本店所售软件源代码仅限于学习交流，<br>私自二次开发修改，转让，用于商业运营或非法用途，与我方无关。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/55Vph" style="color: red;">https://mega-file.org/55Vph</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
